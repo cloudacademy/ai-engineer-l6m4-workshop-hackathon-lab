@@ -1,0 +1,14 @@
+Feature Description
+**Model **BMW car model (e.g., X1, X3, 5 Series, i8, M3)
+**Year **Manufacturing year (2010–2024)
+**Region **Geographic sales region (e.g., North America, Europe, Asia)
+**Color **Exterior car color
+Fuel_Type Type of fuel used: Petrol, Diesel, Hybrid, or Electric
+Transmission Gear transmission type: Manual or Automatic
+Engine_Size_L Engine capacity in liters (1.5L–5.0L)
+Mileage_KM Vehicle mileage (in kilometers)
+Price_USD Price in US Dollars
+Sales_Volume Total units sold in the given region & year
+Sales_Classification Classification label: High or Low sales (based on volume threshold)
+
+
